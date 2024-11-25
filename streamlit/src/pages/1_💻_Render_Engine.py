@@ -15,7 +15,7 @@ styl = f"""
   textarea {{
     font-family: 'Consolas', monospace !important;
   }}
-  }}
+
 </style>
 """
 st.markdown(styl, unsafe_allow_html=True)

@@ -11,11 +11,19 @@ langchain==0.1.16
 langchain_community==0.0.34
 langchain-openai==0.1.6
 langchain-anthropic==0.1.11
-langgraph==0.0.38
-anthropic==0.37.1
+langgraph
+anthropic
 qianfan==0.3.11
-google-cloud-logging==3.10.0
-flask-cors==3.0.10
-azure-storage-blob==12.18.2
-azure-monitor-opentelemetry==1.4.2
-manim-physics==0.4.0
+google-cloud-logging
+flask-cors
+azure-storage-blob
+azure-monitor-opentelemetry
+manim-physics
+
+
+#pip install wheel
+#sudo apt update
+#sudo apt install ffmpeg
+#pip install beautifulsoup4
+#pip install ffmpeg bs4
+

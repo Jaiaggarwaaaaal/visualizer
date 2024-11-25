@@ -3,7 +3,7 @@ The following script is used to run the API server located in the `api` director
 """
 
 import os
-from api import create_app
+from api.__init__ import create_app
 
 app = create_app()
 
